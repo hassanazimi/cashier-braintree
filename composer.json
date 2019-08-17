@@ -2,7 +2,12 @@
     "abandoned": "braintree/braintree_php",
     "name": "laravel/cashier-braintree",
     "description": "Laravel Cashier provides an expressive, fluent interface to Braintree's subscription billing services.",
-    "keywords": ["laravel", "braintree", "billing", "cashier"],
+    "keywords": [
+        "laravel",
+        "braintree",
+        "billing",
+        "cashier"
+    ],
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +17,7 @@
     ],
     "require": {
         "php": "^7.1.3",
-        "braintree/braintree_php": "~3.38",
+        "braintree/braintree_php": "~4.0",
         "dompdf/dompdf": "^0.8.0",
         "illuminate/contracts": "~5.7.0|~5.8.0|~5.9.0",
         "illuminate/database": "~5.7.0|~5.8.0|~5.9.0",
