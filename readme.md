@@ -1,3 +1,17 @@
+# Using the maintained version with composer
+
+- In your compose.json change the `"laravel/cashier-braintree": "3.0"` to `"laravel/cashier-braintree": "dev-hassanazimi"`
+- Add this in your `composer.json`
+```
+ "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/hassanazimi/cashier-braintree"
+    }
+]
+```
+- Run `composer update`
+
 # Laravel Cashier - Braintree Edition
 
 [![Build Status](https://travis-ci.org/laravel/cashier-braintree.svg)](https://travis-ci.org/laravel/cashier-braintree)
