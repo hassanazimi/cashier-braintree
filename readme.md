@@ -1,6 +1,6 @@
 # **DO NOT REMOVE THIS REPO!**
 
-### This repo maintained to use for Parsclick
+### This repo maintained to use for Parsclick.
 
 ---
 
