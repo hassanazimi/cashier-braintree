@@ -1,3 +1,9 @@
+# <strong style="color:red;">DO NOT REMOVE THIS REPO!</strong>
+
+### This repo maintained to use for Parsclick
+
+---
+
 # Using the maintained version with composer
 
 -   In your compose.json change the `"laravel/cashier-braintree": "3.0"` to `"laravel/cashier-braintree": "dev-hassanazimi"`
