@@ -1,8 +1,9 @@
 # Using the maintained version with composer
 
-- In your compose.json change the `"laravel/cashier-braintree": "3.0"` to `"laravel/cashier-braintree": "dev-hassanazimi"`
-- Add this in your `composer.json`
-```
+-   In your compose.json change the `"laravel/cashier-braintree": "3.0"` to `"laravel/cashier-braintree": "dev-hassanazimi"`
+-   Add this in your `composer.json`
+
+```json
  "repositories": [
     {
         "type": "vcs",
@@ -10,7 +11,8 @@
     }
 ]
 ```
-- Run `composer update`
+
+-   Run `composer update`
 
 # Laravel Cashier - Braintree Edition
 
@@ -38,7 +40,7 @@ You will need to set the following details locally and on your Braintree account
     BRAINTREE_PUBLIC_KEY=
     BRAINTREE_PRIVATE_KEY=
     BRAINTREE_MODEL=Laravel\Cashier\Tests\User
-    
+
 You can set these variables in the `phpunit.xml.dist` file.
 
 ### Braintree
