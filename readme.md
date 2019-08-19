@@ -1,4 +1,4 @@
-# <strong style="color:red;">DO NOT REMOVE THIS REPO!</strong>
+# **DO NOT REMOVE THIS REPO!**
 
 ### This repo maintained to use for Parsclick
 
