@@ -6,7 +6,7 @@
 
 # Using the maintained version with composer
 
-1. In your `compose.json` update the `"laravel/cashier-braintree": "3.0"` to `"laravel/cashier-braintree": "dev-hassanazimi"`
+1. In your `compose.json` update the `"laravel/cashier-braintree": "3.0"` to `"laravel/cashier-braintree": "dev-master"`
 
 2. Add this in your `composer.json`:
 
